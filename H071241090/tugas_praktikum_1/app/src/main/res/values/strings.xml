@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">tp1_mobile</string>
+        <string name="default_username">ferrarimlni</string>
+        <string name="profile_picture_content_description">Profile Picture</string>
+        <string name="post_count">1</string>
+        <string name="posts_label">post</string>
+        <string name="followers_count">871</string>
+        <string name="followers_label">followers</string>
+        <string name="following_count">595</string>
+        <string name="following_label">following</string>
+        <string name="default_name">fer</string>
+        <string name="default_bio">she/her</string>
+        <string name="edit_profile_button">Edit profile</string>
+        <string name="share_profile_button">Share profile</string>
+        <string name="highlight_1_label">Highlight 1</string>
+        <string name="highlight_2_label">Highlight 2</string>
+        <string name="lock_icon_content_description">Lock icon</string>
+        <string name="add_icon_content_description">Add icon</string>
+        <string name="sort_icon_content_description">Sort icon</string>
+        <string name="gallery_icon_content_description">Gallery icon</string>
+        <string name="camera_icon_content_description">Camera icon</string>
+        <string name="post_image_1_content_description">Post image 1</string>
+        <string name="post_image_2_content_description">Post image 2</string>
+        <string name="post_image_3_content_description">Post image 3</string>
+        <string name="post_image_4_content_description">Post image 4</string>
+        <string name="post_image_5_content_description">Post image 5</string>
+</resources>

@@ -1,0 +1,25 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+.gradle/
+build/
+app/build/
+local.properties
+
+# Log & Temporary Files
+*.log
+.DS_Store
+
+# Android-specific
+captures/
+.externalNativeBuild
+.cxx/
+
+# Gradle files (optional, tapi biasanya tetap di-push kecuali gradlew)
+# .gradle/
+# build.gradle (Jangan di-ignore!)
+# settings.gradle (Jangan di-ignore!)
+
+# Keamanan
+/google-services.json
