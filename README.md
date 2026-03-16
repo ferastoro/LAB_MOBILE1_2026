@@ -23,7 +23,7 @@ Repositori ini digunakan untuk mengumpulkan tugas Praktikum Pemrograman Mobile (
 Setiap anggota wajib mengikuti struktur folder berikut untuk menjaga kerapian repositori:
 
 ```text
-LAB_MOBILE_3_2026/
+LAB_MOBILE_1_2026/
 ├── NIM_ANDA/
 │   └── tugas-praktikum-1/
 │       ├── app/
